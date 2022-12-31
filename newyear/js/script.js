@@ -2311,7 +2311,7 @@ if (IS_HEADER) {
 	}, 0);
 }
 Footer
-© 2022 GitHub, Inc.
+© 2022 MoRan STD LYC Creation
 Footer navigation
 Terms
 Privacy
